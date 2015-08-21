@@ -1,13 +1,11 @@
 .nfe-quote
 {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .nfe-quote-text
 {
-    color: #000;
-    border-left: 4px solid #99f;
-    margin-left: 15px;
+    color: #555;
     padding-left: 15px;
 }
 
@@ -19,13 +17,14 @@
 
 .nfe-quote-source
 {
-    color: #999;
+    color: #6d84b4;
+    padding-left: 15px;
 }
 
 .nfe-info-link
 {
     margin-left: 15px;
-    color: #77f;
+    color: #6d84b4;
     font-size: 12px;
     display: block;
 }
@@ -33,10 +32,9 @@
 .nfe-info-link:hover
 {
     margin-left: 15px;
-    color: #77f;
+    color: #3b5998;
     font-size: 12px;
     display: block;
-    background-color: #ddd;
 }
 
 .nfe-info-link img
@@ -81,7 +79,7 @@
 .nfe-info-panel h1
 {
     font-size: 22px;
-    text-align: center;
+    text-align: left;
 }
 
 .nfe-info-panel h2
@@ -92,7 +90,7 @@
 .nfe-info-col
 {
     font-size: 14px;
-    text-align: center;
+    text-align: left;
     padding: 10px;
     margin: 10px;
     border: 1px solid #ccc;

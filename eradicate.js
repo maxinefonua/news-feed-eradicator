@@ -1,132 +1,131 @@
 var quoteList = [ 
 	{
-		quote: "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-		source: "Lao Tzu"
+		quote: "I am not a prophet<br>but sometimes I have prophetic dreams.",
+		source: "Huey"
 	},
 	{
-		quote: "In character, in manner, in style, in all things, the supreme excellence is simplicity.",
-		source: "Henry Wadsworth Longfellow"
+		quote: "Jesus was black<br>Ronald Reagan was the Devil<br>and the government is lying about 9/11.<br>Thank you for your time and good night.",
+		source: "Huey"
 	},
 	{
-		quote: "If we don't discipline ourselves, the world will do it for us.",
-		source: "William Feather"
+		quote: "Granddad, you can't tame the White Supremacist power structure with cheese!",
+		source: "Huey"
 	},
 	{
-		quote: "Rule your mind or it will rule you.",
-		source: "Horace"
+		quote: "These people aren't worried about us.<br>They're not worried about anything.<br>They're rich. No matter what happens,<br>these people just keep applauding.",
+		source: "Huey"
 	},
 	{
-		quote: "All that we are is the result of what we have thought.",
-		source: "Buddha"
+		quote: "Obi-Wan Kenobi once said:<br> Your eyes can deceive you, don't trust them.<br><br>Seems to be getting harder distinguishing reality<br>from the illusions that people make for us<br>or from the ones that we make for ourselves.<br>I don't know, maybe that's part of the plan.<br>To make me think I'm crazy.<br><br>It’s working.",
+		source: "Huey"
 	},
 	{
-		quote: "Doing just a little bit during the time we have available puts you that much further ahead than if you took no action at all.",
-		source: "Pulsifer, Take Action; Don't Procrastinate"
+		quote: "That night I dreamt of a blind swordsman.<br>He knows my every move, yet he cannot see.<br>As my mind fights to make sense of the impossible,<br>he is turning my sight into a liability.<br><br>He has no just cause to want my life.<br>There is no forethought, no logic in his actions.<br>This isn't just any swordsman.<br>This is the blind nigga samurai.",
+		source: "Huey"
 	},
 	{
-		quote: "Never leave that till tomorrow which you can do today.",
-		source: "Benjamin Franklin"
+		quote: "Vision?<br>What do you know about my vision?<br>My vision would turn your world upside down,<br>tear asunder your illusions and send the sanctuary<br>of your own ignorance crashing down around you.<br><br>Now ask yourself: are you really ready<br>to see that vision?<br><br>...I want it in writing.",
+		source: "Huey"
 	},
 	{
-		quote: "Procrastination is like a credit card: it's a lot of fun until you get the bill.",
-		source: "Christopher Parker"
+		quote: "Game recognize game, Granddad<br>and you lookin' kinda unfamiliar right now.",
+		source: "Riley"
 	},
 	{
-		quote: "Someday is not a day of the week.",
-		source: "Author Unknown"
+		quote: "First of all, imma live forever!<br>But if I do die,<br>I'm gon' smack God upside the head<br>and gon' tell him<br>to get me a grilled-cheese sandwich<br>and some tacos!",
+		source: "Riley"
 	},
 	{
-		quote: "Tomorrow is often the busiest day of the week.",
-		source: "Spanish Proverb"
+		quote: "Operation Black Steel - the mission to liberate Shabazz K. Milton-Berle - was aborted...<br>because I couldn't get a ride.",
+		source: "Huey"
 	},
 	{
-		quote: "I can accept failure, everyone fails at something. But I can't accept not trying.",
-		source: "Michael Jordan"
+		quote: "Maybe there are forces in this universe<br>we don't understand<br><br>But I still believe <br>we make our own miracles<br><br>What makes your god<br>any less made up than his?",
+		source: "Huey"
 	},
 	{
-		quote: "There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.",
-		source: "Neil A. Fiore"
+		quote: "I am the stone that the builder refused.",
+		source: ""
 	},
 	{
-		quote: "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
-		source: "Thomas Jefferson"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Granddad"
 	},
 	{
-		quote: "There is only one success--to be able to spend your life in your own way.",
-		source: "Christopher Morley"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Success is the good fortune that comes from aspiration, desperation, perspiration and inspiration.",
-		source: "Evan Esar"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "We are still masters of our fate. We are still captains of our souls.",
-		source: "Winston Churchill"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Our truest life is when we are in dreams awake.",
-		source: "Henry David Thoreau"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "The best way to make your dreams come true is to wake up.",
-		source: "Paul Valery"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Life without endeavor is like entering a jewel mine and coming out with empty hands.",
-		source: "Japanese Proverb"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Happiness does not consist in pastimes and amusements but in virtuous activities.",
-		source: "Aristotle"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
-    {
-        quote: "By constant self-discipline and self-control, you can develop greatness of character.",
-        source: "Grenville Kleiser"
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
     },
     {
-        quote: "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
-        source: "Vince Lombardi Jr."
-    },
-    {
-        quote: "At the end of the day, let there be no excuses, no explanations, no regrets.",
-        source: "Steve Maraboli"
-    },
-    {
-        quote: "Inaction will cause a man to sink into the slough of despond and vanish without a trace.",
-        source: "Farley Mowat"
-    },
-    {
-        quote: "True freedom is impossible without a mind made free by discipline.",
-        source: "Mortimer J. Adler"
-    },
-    {
-        quote: "The most powerful control we can ever attain, is to be in control of ourselves.",
-        source: "Chris Page"
-    },
-    {
-        quote: "Idleness is only the refuge of weak minds, and the holiday of fools.",
-        source: "Philip Dormer Stanhope"
-    },
-    {
-        quote: "This is your life and it's ending one minute at a time.",
-        source: "Tyler Durden, Fight Club"
-    },
-	{
-		quote: "You create opportunities by performing, not complaining.",
-		source: "Muriel Siebert"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Great achievement is usually born of great sacrifice, and is never the result of selfishness.",
-		source: "Napoleon Hill"
-	},
-
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+    },
 	{
-		quote: "Whether you think you can, or you think you can't, you're right.",
-		source: "Henry Ford"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+    },
+    {
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	},
 	{
-		quote: "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.",
-		source: "Martin Luther"
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
+	},
+	{
+		quote: "How many times have I told you, you better not even <i>dream</i> about tellin' white folk the truth! You understand me?<br><br>Shoot, makin' white people riot. You better learn how to lie like me! I'm gonna find me a white man and lie to him right now!",
+		source: "Huey"
 	}
 ];
 
@@ -142,11 +141,11 @@ infoPanel = $("<div class='nfe-info-panel'></div>")
     .hide()
     .appendTo(quoteDiv);
 
-quoteText = $("<p>“"+selectedQuote.quote+"”</p>")
+quoteText = $("<p>"+selectedQuote.quote+"</p>")
     .addClass('nfe-quote-text')
     .appendTo(quoteDiv);
 
-quoteSource = $("<p>~ "+selectedQuote.source+"</p>")
+quoteSource = $("<p> "+selectedQuote.source+"</p>")
     .addClass('nfe-quote-source')
     .appendTo(quoteDiv);
 
@@ -164,7 +163,7 @@ var extensionURL = function(relativeURL){
     }
 }
 
-fbLink = $("<a href='javascript:;'>News Feed Eradicator :)</a>")
+fbLink = $("<a href='javascript:;'></a>")
     .addClass('nfe-info-link')
     .on('click', function(){
       var handleClose = function() {
