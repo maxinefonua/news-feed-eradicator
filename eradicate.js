@@ -129,17 +129,11 @@ var quoteList = [
 	}
 ];
 
-
 var selectedQuote = quoteList[Math.floor(Math.random() * quoteList.length)];
 
 var quoteDiv, quoteText, quoteSource, fbLink, infoPanel, taikoPic;
 
 quoteDiv = $("<div class='nfe-quote'/>");
-
-// Info panel, hidden by default
-infoPanel = $("<div class='nfe-info-panel'></div>")
-    .hide()
-    .appendTo(quoteDiv);
 
 quoteText = $("<p>"+selectedQuote.quote+"</p>")
     .addClass('nfe-quote-text')
@@ -147,6 +141,12 @@ quoteText = $("<p>"+selectedQuote.quote+"</p>")
 
 quoteSource = $("<p> "+selectedQuote.source+"</p>")
     .addClass('nfe-quote-source')
+    .appendTo(quoteDiv);
+
+
+// Info panel, hidden by default
+infoPanel = $("<div class='nfe-info-panel'></div>")
+    .hide()
     .appendTo(quoteDiv);
 
 var hideInfoPanel = function(){
@@ -163,7 +163,7 @@ var extensionURL = function(relativeURL){
     }
 }
 
-fbLink = $("<a href='javascript:;'></a>")
+fbLink = $("<a href='javascript:;'>.</a>")
     .addClass('nfe-info-link')
     .on('click', function(){
       var handleClose = function() {
