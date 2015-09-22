@@ -1,7 +1,7 @@
 {
 	"name": "Boondocks Feed",
-	"version": "0.1",
-	"description": "So you don't get lost in the feed.",
+	"version": "0.4",
+	"description": "Quotes from Huey Freeman, the founder of 23 different radical leftist organizations, including the Africans Fighting Racism Organization, or AFRO if you will, the Black Revolutionary Organization, or BRO, and also the Black Revolutionary Underground Heroes, or BRUH.",
 	"manifest_version": 2,
 	"permissions": [
 		"http://www.facebook.com/*",
