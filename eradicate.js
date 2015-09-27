@@ -8,7 +8,7 @@ var quoteList = [
 		source: "Huey Freeman"
 	},
 	{
-		quote: "Granddad, you can't tame the White Supremacist power structure with cheese!",
+		quote: "Granddad, you can't tame the white supremacist power structure with cheese!",
 		source: "Huey Freeman"
 	},
 	{
@@ -60,72 +60,72 @@ var quoteList = [
 		source: "Huey Freeman"
 	},
 	{
-		quote: "<i>We were just having a little fun.</i><br><br><b><i>Fun</i></b>?<br>Do I look like Charlie Brown?<br><br><i>...No.</i><br><br>Do I <b><i>look</i></b> like Charlie Brown?",
-		source: "Huey Freeman"
+		quote: "Oh, if my nigga Obama gets up in there, psh - I'm gon act a fool! I ain't doing no more homework, nothing. We taking over.<br><br>Come on, what's a cop gonna do to me? I'm gonna be like, <i>Don't make me call the president, bitch.</i><br><br>And the cops, he gonna be like, <i>Oh, snap, Riley a real nigga. The president's a real nigga. We can't do nothing.</i><br><br>I can't wait.",
+		source: "Riley Freeman"
 	},
 	{
 		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
 		source: "Gin Rummy and Huey Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>How dare you bring drugs into my house? You can get us all arrested.</i><br><br>Hahaha! Man, don’t you keep up with current events? Weed ain’t illegal no more, nigga.<br><br><i>Really?</i><br><br>Hell yeah. Man, Obama came through and changed all that shit.",
+		source: "Robert Freeman and Thugnificent"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>How does it feel to be labeled a domestic terrorist?</i><br><br>Eh. I’m retired.",
+		source: "Werner Herzog and Huey Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real Nigga.<br><br><i>'Real Nigga' is two words.</i><br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real Nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	},
 	{
-		quote: "<i>I ain't think they'd actually shoot back at us.</i><br><br>Well of course they're shooting back at us! You're robbing their store!<br><br><i>You can't assume that people are gonna shoot back at you. It was an unknown unknown.</i><br><br>Need I remind you that this has <b>nothing</b> to do<br>with our original plan.<br><br><i>Damn it, Huey! Robbery etiquette says you can't criticize a robbery plan during the actual robbery. You have to wait till the robbery's over.</i>",
-		source: "Gin Rummy and Huey Freeman"
+		quote: "<i>Describe Riley Freeman in one word.</i><br><br>Real nigga.<br><br>'Real Nigga' is two words.<br><br>I know it's two words, nigga. Real niggas don't follow instructions.",
+		source: "Riley Freeman"
 	}
 ];
 
